@@ -1,0 +1,15 @@
+.title {
+    text-align:center;
+}
+
+.nav-button {
+	padding: 10px;
+	text-align: right;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    position: absolute;
+    width: 50px
+}
